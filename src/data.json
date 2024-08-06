@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "propertyName": "M3M Altitude",
+        "location": "Sector 65, Gurgaon",
+        "price": "On Request",
+        "img": "/images/M3M Altitude.webp"
+    },
+    {
+        "id": "2",
+        "propertyName": "M3M Mansion",
+        "location": "Sector 113, Gurgaon",
+        "price": "On Request",
+        "img": "/images/M3M Mansion.webp"
+    },
+    {
+        "id": "3",
+        "propertyName": "Smartworld One DXP",
+        "location": "Sector 103, Gurgaon",
+        "price": "On Request",
+        "img": "/images/Smartworld One DXP.webp"
+    },
+    {
+        "id": "4",
+        "propertyName": "Whiteland Urban Resort",
+        "location": "Sector 103, Gurgaon",
+        "price": "On Request",
+        "img": "/images/Whiteland Urban Resort.webp"
+    }
+]
